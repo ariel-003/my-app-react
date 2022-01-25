@@ -1,0 +1,18 @@
+.Navigation {
+    display: flex;
+    background-color: blue;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 50px;
+    color: white;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+ul li {
+    list-style: none;
+}
